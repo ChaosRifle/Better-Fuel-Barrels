@@ -10,7 +10,7 @@ Enables:
  - watering plants with a barrel of water
  - forcing another player to do a keg-stand
  - dumping the barrels fluid contents on the ground
- - transfering a barrels fluid contents into another fluid container
+ - transferring a barrels fluid contents into another fluid container
  - probably something else I forgot
 
 This mod does NOT allow:
